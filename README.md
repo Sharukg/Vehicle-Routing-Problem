@@ -75,9 +75,7 @@ Optimized routes:
 - 🚚 Vehicle 1 (Blue)
 - 🚚 Vehicle 2 (Green)
 - 🚚 Vehicle 3 (Orange)
-
-![Example Plot](example_plot.png)
-
+  
 ---
 
 ## 🧩 How It Works
